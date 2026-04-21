@@ -1,0 +1,13 @@
+*.shp
+*.dbf
+*.shx
+data/
+.ipynb_checkpoints/
+.DS_Store
+
+# ignore all csv
+*.csv
+
+# or specific large file
+as/dft_traffic_counts_aadf.csv
+
